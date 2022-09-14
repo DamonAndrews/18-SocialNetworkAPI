@@ -11,3 +11,6 @@ The code provided for this social network API allows user interactions for posti
 
 Video Link:
 https://drive.google.com/file/d/15XwVg2TFstga4B0-SzRLAGu3O-x_TkeL/view
+
+
+![social_network_screenshot](https://user-images.githubusercontent.com/107002411/190230282-e0628973-ad30-406d-a14b-dc6b71c67dbc.jpg)
